@@ -1,3 +1,7 @@
  hello this is first commit
 
  hello this is second commit
+
+ hello mr this is third commit
+
+ hii this is fourth commit this lines created for reset command
